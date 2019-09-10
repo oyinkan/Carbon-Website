@@ -1,0 +1,81 @@
+@media screen and (max-width: 768px) {
+	.accept-wrapper h1 {
+	    font-size: 43px;
+	}
+	.accept-wrapper p {
+	    font-size: 16px;
+	}
+	.btn.btn-info.btn-apply,
+	.btn.btn-info.btn-explore {
+	    font-size: 16px;
+	    margin-bottom: 30px;
+	}
+	.payment-wrapper h6 {
+    	font-size: 18px;
+    }
+    .payment-wrapper h2, 
+    .seamless-wrapper h2 {
+    	padding: 20px 0;
+    	font-size: 40px;
+    }
+    .payment-wrapper p, 
+    .seamless-wrapper p, 
+    footer p, 
+    footer input {
+    	font-size: 15px;
+    }
+    .settlement-wrapper {
+    	margin-left: -30px;
+    	margin-top: 10px;
+    }
+    footer p.about,
+    footer .d-flex {
+    	margin-top: 30px;
+    }
+    .form-control,
+    .recharge-wrapper p,
+    .report-div .input-group {
+	    width: auto;
+	}
+	footer p a,
+	footer p.about {
+		font-size: 14px;
+	}
+	.recharge-wrapper h3 {
+		font-size: 30px;
+		margin-top: 20px;
+	}
+}
+
+@media screen and (min-width: 770px) and (max-width: 990px) {
+	.accept-wrapper h1 {
+	    font-size: 55px;
+	}
+	.payment-wrapper h2, 
+	.seamless-wrapper h2 {
+    	font-size: 50px;
+    }
+    .recharge-wrapper h3 {
+	    font-size: 35px;
+	}
+    .payment-wrapper h6 {
+	    font-size: 20px;
+	}
+	footer p a,
+	footer p.about {
+		font-size: 15px;
+	}
+	.btn.btn-info.btn-apply,
+	.btn.btn-info.btn-explore {
+		font-size: 18px;
+	}
+	.payment-wrapper p, 
+    .seamless-wrapper p, 
+    footer p, 
+    footer input {
+    	font-size: 16.5px;
+    }
+    footer p.about {
+    	margin-top: 30px;
+    }
+}
