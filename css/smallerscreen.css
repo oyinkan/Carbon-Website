@@ -12,7 +12,8 @@
 	    margin-bottom: 30px;
 	}
 	.payment-wrapper h6, 
-	.access-wrapper h6 {
+	.access-wrapper h6,
+	.quality-wrapper h6 {
     	font-size: 18px;
     }
     .payment-wrapper h2, 
@@ -41,7 +42,8 @@
     }
     .form-control,
     .recharge-wrapper p,
-    .report-div .input-group {
+    .report-div .input-group,
+    .recharge-wrapper .quality-wrapper p {
 	    width: auto;
 	}
 	footer p a,
@@ -62,6 +64,14 @@
 	.carousel-item p {
 		font-size: 20px;
 		margin-top: 70px;
+	}
+	.slide p {
+		width: 80%;
+    	font-size: 15px;
+    }
+    .slide h6 {
+		font-size: 25px;
+	    margin-top: 20px;
 	}
 }
 
@@ -107,4 +117,15 @@
     	font-size: 28px;
     }
 
+}
+
+@media screen and (min-width: 1150px) {
+	.quality-wrapper hr {
+		margin-left: 20px;
+	} 
+}
+@media screen and (min-width: 430px) and (max-width: 768px) {
+	.quality-wrapper hr {
+		margin-left: 20px;
+	} 
 }

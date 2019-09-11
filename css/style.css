@@ -294,11 +294,11 @@ footer .p-2 {
   padding: 50px 20px 0 35px;
   margin-top: 90px;
 }
-.onlinepayment-wrapper:hover,
+/*.onlinepayment-wrapper:hover,
 .verification-wrapper:hover,
 .business-wrapper:hover {
   transform: rotateY(-2deg);
-}
+}*/
 .onlinepayment-wrapper {
   background-color: #fff;
 }
@@ -486,4 +486,56 @@ footer .p-2 {
 }
 .carousel-control-prev {
   margin-left: 40px;
+}
+
+/* business loan page */
+.quality-wrapper h6 {
+  font-size: 24px;
+  font-weight: 600;
+  color: #fff;
+}
+.quality-wrapper p {
+  opacity: 0.63;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: #fff;
+}
+.recharge-wrapper .quality-wrapper p {
+  width: 60%;
+}
+.ml-25 {
+  margin-left: 25px;
+}
+.slider .slide h6 {
+  font-size: 36px;
+  font-weight: bold;
+  letter-spacing: -0.9px;
+  color: #18214d;
+}
+.slider .slide hr {
+  width: 80%;
+  margin-left: 0;
+}
+.slider .slide p {
+  width: 63%;
+  font-weight: normal;
+  margin-top: 0;
+  font-size: 18px;
+  line-height: 1.44;
+  letter-spacing: -0.3px;
+  color: #3e4462;
+}
+.slick-prev, .slick-next {
+  top: 95%!important;
+}
+.quality-wrapper hr{ 
+  width: 0;
+  height: 79.2px;
+  opacity: 0.38;
+  margin-top: 15px;
+  border: solid 0.9px #ffffff;     
+}
+.recharge-wrapper .mt-20 {
+  margin: 20px 0 40px 0;
 }
