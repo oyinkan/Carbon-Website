@@ -1,6 +1,6 @@
 @media screen and (max-width: 768px) {
 	.accept-wrapper h1 {
-	    font-size: 43px;
+	    font-size: 37px;
 	}
 	.accept-wrapper p,
 	.btn.btn-info.btn-subscribe {
@@ -21,7 +21,7 @@
     .platform-wrapper h2,
     .access-wrapper h2 {
     	padding: 20px 0;
-    	font-size: 40px;
+    	font-size: 30px;
     }
     .payment-wrapper p, 
     .seamless-wrapper p, 
