@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="754px" height="590px" viewBox="0 0 754 590" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="2.21806806%" y1="68.9523384%" x2="102.218068%" y2="31.0476616%" id="linearGradient-1">
+            <stop stop-color="#02182C" offset="0%"></stop>
+            <stop stop-color="#696772" offset="100%"></stop>
+        </linearGradient>
+        <path d="M33.3876739,0 L374.4935,0 C396.032605,-3.95666944e-15 413.4935,17.4608948 413.4935,39 L413.4935,299.204924 C413.4935,317.644427 398.545329,332.592598 380.105826,332.592598 L45,332.592598 C20.1471863,332.592598 3.04359188e-15,312.445411 0,287.592598 L0,33.3876739 C4.84723951e-15,14.9481708 14.9481708,1.04927091e-14 33.3876739,0 Z" id="path-2"></path>
+        <path d="M12,0 L208.5,0 C215.127417,5.58920087e-16 220.5,5.372583 220.5,12 L220.5,127.5 C220.5,134.127417 215.127417,139.5 208.5,139.5 L12,139.5 C5.372583,139.5 8.11624501e-16,134.127417 0,127.5 L0,12 C-8.11624501e-16,5.372583 5.372583,6.54650727e-15 12,0 Z" id="path-4"></path>
+        <filter x="-68.0%" y="-86.0%" width="236.1%" height="315.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="45" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.141176471   0 0 0 0 0.184313725   0 0 0 0 0.250980392  0 0 0 0.194629589 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="15.2633944%" y1="82.5577459%" x2="-14.0614168%" y2="8.38497502%" id="linearGradient-6">
+            <stop stop-color="#17B7BD" offset="0%"></stop>
+            <stop stop-color="#9DEB93" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12,0 L208.5,0 C215.127417,5.58920087e-16 220.5,5.372583 220.5,12 L220.5,127.5 C220.5,134.127417 215.127417,139.5 208.5,139.5 L12,139.5 C5.372583,139.5 8.11624501e-16,134.127417 0,127.5 L0,12 C-8.11624501e-16,5.372583 5.372583,6.54650727e-15 12,0 Z" id="path-7"></path>
+        <filter x="-59.0%" y="-74.6%" width="217.9%" height="286.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="26" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="39" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.652880611   0 0 0 0 0.675737715   0 0 0 0 0.700520833  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="67.1103397%" y1="100%" x2="6.828217%" y2="-28.451723%" id="linearGradient-9">
+            <stop stop-color="#FF829C" offset="0%"></stop>
+            <stop stop-color="#FFD0A0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Iteration-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Developers" transform="translate(-618.000000, -877.000000)">
+            <g id="Group-6" transform="translate(80.000000, 780.000000)">
+                <g id="Block" transform="translate(51.000000, 55.000000)">
+                    <g id="Group-17" transform="translate(576.000000, 82.000000)">
+                        <g id="Group-19" transform="translate(42.000000, 0.000000)">
+                            <g id="Group-13-Copy-2">
+                                <path d="M357.185119,296.860967 L552.185119,296.860967 C556.603397,296.860967 560.185119,300.442689 560.185119,304.860967 L560.185119,459.860967 C560.185119,464.279245 556.603397,467.860967 552.185119,467.860967 L357.185119,467.860967 C352.766841,467.860967 349.185119,464.279245 349.185119,459.860967 L349.185119,304.860967 C349.185119,300.442689 352.766841,296.860967 357.185119,296.860967 Z" id="Rectangle-Copy-9" stroke="#B59FD3" stroke-width="2" opacity="0.952566964" stroke-linejoin="round" stroke-dasharray="7"></path>
+                                <path d="M8,0.5 L184,0.5 C188.418278,0.5 192,4.081722 192,8.5 L192,147.5 C192,151.918278 188.418278,155.5 184,155.5 L8,155.5 C3.581722,155.5 5.41083001e-16,151.918278 0,147.5 L0,8.5 C-5.41083001e-16,4.081722 3.581722,0.5 8,0.5 Z" id="Rectangle-Copy-10" stroke="#B59FD3" stroke-width="1.65" opacity="0.560872396" stroke-linejoin="round" stroke-dasharray="6"></path>
+                                <g id="Group-9" transform="translate(51.348478, 72.233935)">
+                                    <mask id="mask-3" fill="white">
+                                        <use xlink:href="#path-2"></use>
+                                    </mask>
+                                    <use id="Rectangle" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                    <g id="Carbon-SME-Finance_-Fast-and-Flexible-loans-for-your-business.-1-Copy-2" opacity="0.173781622" style="mix-blend-mode: normal;" mask="url(#mask-3)" fill-rule="nonzero">
+                                        <g transform="translate(363.651522, 181.266065) rotate(-18.000000) translate(-363.651522, -181.266065) translate(156.651522, -55.233935)" id="Path">
+                                            <polygon fill="#243444" points="414 112.693069 276 120 414 352.693069"></polygon>
+                                            <polygon fill="#435465" points="414 114 210 0 276 120"></polygon>
+                                            <polygon fill="#243444" points="276 118.693069 210 0 0 118.675424"></polygon>
+                                            <polygon fill="#243444" points="0 354 138 352.693069 0 120"></polygon>
+                                            <polygon fill="#435465" points="0 354 210 472.693069 142.011732 352.693069"></polygon>
+                                            <polygon fill="#243444" points="138 352.693069 207.003864 472.693069 414 352.693069"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="Group-12" mask="url(#mask-3)" stroke-linecap="round">
+                                        <g transform="translate(25.937513, 79.817869)">
+                                            <g id="Group-10" transform="translate(62.007414, 62.116652) rotate(40.000000) translate(-62.007414, -62.116652) translate(18.007414, 18.116652)">
+                                                <circle id="Oval" stroke="#E4D0FF" stroke-width="17.9779782" cx="43.6608043" cy="43.6608043" r="43.6608043"></circle>
+                                                <path d="M43.6608043,0 C19.5476079,0 0,19.5476079 0,43.6608043 C0,67.7740007 19.5476079,87.3216086 43.6608043,87.3216086 L43.6608043,87.3216086" id="Path" stroke="#FFFFFF" stroke-width="17.9779782"></path>
+                                            </g>
+                                            <g id="Group-11" transform="translate(183.959030, 34.671815)">
+                                                <path d="M0,0.642070652 L71.7459467,0.642070652" id="Path-62-Copy" stroke="#D3C5FF" stroke-width="17.9779782"></path>
+                                                <path d="M7.81597009e-14,52.0077228 L44.7789794,52.0077228" id="Path-62-Copy-2" stroke="#FFFFFF" stroke-width="17.9779782"></path>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="income" transform="translate(0.000000, 18.500000)">
+                            <g id="Rectangle-9">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                            </g>
+                            <g id="ic_add-income" transform="translate(111.000000, 46.500000) rotate(-225.000000) translate(-111.000000, -46.500000) translate(79.500000, 15.000000)">
+                                <polygon id="Path" points="0 0 63 0 63 63 0 63"></polygon>
+                                <path d="M40.32,38.550682 L22.183173,20.521791 C20.9916935,19.3374023 19.2151104,21.1246215 20.4065899,22.3090103 L38.5202915,40.3149135 L26.4620939,40.2948748 C25.7662161,40.2937184 25.2011582,40.8569014 25.2000017,41.5527792 C25.1988453,42.248657 25.7620283,42.8137149 26.4579061,42.8148714 L41.5335084,42.84 C41.5409812,42.84 41.5484457,42.84 41.5559018,42.84 L41.5779061,42.84 C42.2746018,42.841156 42.84,42.2766966 42.84,41.58 L42.84,26.4348731 C42.84,25.7389943 42.2758788,25.1748731 41.58,25.1748731 C40.8841212,25.1748731 40.32,25.7389943 40.32,26.4348731 L40.32,38.550682 Z M31.5,57.96 C16.8865455,57.96 5.04,46.1134545 5.04,31.5 C5.04,16.8865455 16.8865455,5.04 31.5,5.04 C46.1134545,5.04 57.96,16.8865455 57.96,31.5 C57.96,46.1134545 46.1134545,57.96 31.5,57.96 Z" id="Path" fill="url(#linearGradient-6)"></path>
+                            </g>
+                            <text id="Transfers" font-family="Nunito-Regular, Nunito" font-size="19.5" font-weight="normal" letter-spacing="-0.325000048" fill="#696565">
+                                <tspan x="72" y="114.5">Transfers</tspan>
+                            </text>
+                        </g>
+                        <g id="income-copy" transform="translate(367.000000, 307.000000)">
+                            <g id="Rectangle-9">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                            </g>
+                            <g id="ic_add-income-copy" transform="translate(111.000000, 46.500000) scale(-1, 1) rotate(-225.000000) translate(-111.000000, -46.500000) translate(79.500000, 15.000000)">
+                                <polygon id="Path" points="-7.27595761e-12 -3.63797881e-12 63 -3.63797881e-12 63 63 -7.27595761e-12 63"></polygon>
+                                <path d="M31.5,57.96 C16.8865455,57.96 5.04,46.1134545 5.04,31.5 C5.04,16.8865455 16.8865455,5.04 31.5,5.04 C46.1134545,5.04 57.96,16.8865455 57.96,31.5 C57.96,46.1134545 46.1134545,57.96 31.5,57.96 Z" id="Path" fill="url(#linearGradient-9)"></path>
+                                <g id="Stockholm-icons-/-General-/-Search" transform="translate(31.500000, 31.500000) rotate(-52.000000) translate(-31.500000, -31.500000) translate(13.500000, 13.500000)">
+                                    <rect id="bound" x="0" y="0" width="36" height="36"></rect>
+                                    <path d="M21.4393398,25.0606602 C20.8535534,24.4748737 20.8535534,23.5251263 21.4393398,22.9393398 C22.0251263,22.3535534 22.9748737,22.3535534 23.5606602,22.9393398 L29.5606602,28.9393398 C30.1464466,29.5251263 30.1464466,30.4748737 29.5606602,31.0606602 C28.9748737,31.6464466 28.0251263,31.6464466 27.4393398,31.0606602 L21.4393398,25.0606602 Z" id="Path-2" fill="#FFFFFF" fill-rule="nonzero" opacity="0.439999998"></path>
+                                    <path d="M16.5,24 C20.6421356,24 24,20.6421356 24,16.5 C24,12.3578644 20.6421356,9 16.5,9 C12.3578644,9 9,12.3578644 9,16.5 C9,20.6421356 12.3578644,24 16.5,24 Z M16.5,27 C10.7010101,27 6,22.2989899 6,16.5 C6,10.7010101 10.7010101,6 16.5,6 C22.2989899,6 27,10.7010101 27,16.5 C27,22.2989899 22.2989899,27 16.5,27 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                            <text id="Transaction-Lookup" font-family="Nunito-Regular, Nunito" font-size="18" font-weight="normal" letter-spacing="-0.300000044" fill="#242F40">
+                                <tspan x="31.5" y="109.5">Transaction Lookup</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

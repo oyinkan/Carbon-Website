@@ -99,9 +99,6 @@ nav {
   letter-spacing: -2.4px;
   color: #18214d;
 }
-.seamless-wrapper h2.super {
-  width: 90%;
-}
 .payment-wrapper p,
 .seamless-wrapper p,
 footer p,
@@ -291,7 +288,7 @@ footer .p-2 {
 .business-wrapper {
   border-radius: 15px;
   box-shadow: 0 20px 80px 0 rgba(234, 233, 237, 0.71);
-  padding: 50px 20px 0 35px;
+  padding: 50px 20px 0 20px;
   margin-top: 90px;
 }
 /*.onlinepayment-wrapper:hover,
@@ -335,28 +332,24 @@ footer .p-2 {
 .verification-image {
   background: url(./../images/verification.png);
   background-size: cover;
-  background-position: bottom;
   padding: 130px;
   margin-top: 20px;
 }
 .onlinepayment-image {
   background: url(./../images/online-payment.svg);
   background-size: cover;
-  background-position: bottom;
   padding: 130px;
-  margin-top: 20px;
+  margin-top: -30px;
 }
 .business-image {
   background: url(./../images/business.png);
   background-size: cover;
-  background-position: bottom;
   padding: 130px;
   margin-top: 20px;
 }
 .fund-image {
-  background: url(./../images/fund.png);
+  background: url(./../images/fund.svg);
   background-size: cover;
-  background-position: bottom;
   padding: 130px;
   margin-top: 20px;
 }
