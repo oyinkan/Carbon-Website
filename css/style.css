@@ -1,5 +1,5 @@
 body {
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
 }
 * {
     outline: none!important;
@@ -60,6 +60,7 @@ nav {
   margin-top: 10px;
   padding: 10px 15px;
   padding-top: 4px;
+  padding-top: 10px;
 }
 .btn.btn-info.btn-apply:hover {
   background: #320fa8; 
@@ -534,4 +535,8 @@ footer .p-2 {
 }
 .mt-40 {
   margin-top: 40px;
+}
+.platform-wrapper .onlinepayment-wrapper h2, 
+.platform-wrapper .verification-wrapper h2 {
+  letter-spacing: 1px;
 }

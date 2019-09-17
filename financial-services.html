@@ -13,10 +13,20 @@
     <link href="css/animate.min.css" rel="stylesheet">
     <link href="css/hover-min.css" rel="stylesheet">
     <link rel="shortcut icon" type="image/png" href="images/logo.png"/>
-    <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nunito+Sans&display=swap" rel="stylesheet">
     <style>
+        .btn.btn-info.btn-explore {
+          background-color: #f3f4f8; 
+          border-color: #f3f4f8;
+          font-size: 20px;
+          font-weight: 600;
+          letter-spacing: -0.5px;
+          color: #320fa8;
+          padding-left: 25px;
+          padding-right: 25px;
+        }
         .accept-wrapper {
-            background: url(images/landing.png);
+            background: url(images/developers-header.svg);
             background-size: cover;
             background-repeat: no-repeat;
         }
@@ -49,10 +59,10 @@
             padding-left: 0;
         }
         .btn.btn-info.btn-apply {
-            background: #ccc;
-            border-color: #ccc;
+            background: #fff;
+            border-color: #fff;
             color: #000;
-            padding-top: 10px;
+            margin-top: 20px;
         }
     </style>
 </head>
@@ -98,7 +108,7 @@
                             <div>
                                 <h1>The perfect API pack to build financial services</h1>
                                 <p>Welcome to Carbon! Get familiar with the Carbon products and explore their features</p>
-                                <a href="" class="btn btn-info btn-apply"><img src="images/icon-two.svg" class="img-fluid" alt="">&nbsp;Create free account</a>
+                                <a href="" class="btn btn-info btn-apply"><img src="images/icon-gray.svg" class="img-fluid" alt="">&emsp;Create free account</a>
                             </div>
                         </div>
                     </div>
@@ -154,14 +164,12 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="fund-wrapper onlinepayment-wrapper">
-                                        <a href="">Try out our robost transfer APIs <i class="fa fa-arrow-right"></i></a>
-                                    </div>
+                                    <a href="" class="btn btn-info btn-explore">Explore API Documentation &emsp;<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                             <div class="col-lg-7 col-md-6">
                                 <div>
-                                    <img src="images/transfer.svg" class="img-fluid" alt="">
+                                    <img src="images/transferAPI.svg" class="img-fluid" alt="">
                                 </div>
                             </div>
                         </div>
@@ -173,7 +181,7 @@
                     <div class="row">
                         <div class="col-lg-7 col-md-6">
                             <div>
-                                <img src="images/transfer.svg" class="img-fluid" alt="">
+                                <img src="images/airtimeAPI.svg" class="img-fluid" alt="">
                             </div>
                         </div>
                             <div class="col-lg-5 col-md-6">
@@ -196,103 +204,45 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="fund-wrapper onlinepayment-wrapper">
-                                        <a href="">Try out our robost transfer APIs <i class="fa fa-arrow-right"></i></a>
-                                    </div>
+                                    <a href="" class="btn btn-info btn-explore">Explore API Documentation &emsp;<i class="fa fa-arrow-right"></i></a>
                                 </div>
                             </div>
                         </div>
                 </div>
             </div>
-            <div class="report-wrapper">
-                <div class="container">
-                    <div class="report-div">
+            <div>
+                <div class="container-fluid">
+                    <div class="documentation-wrapper">
                         <div class="row">
-                            <div class="col-lg-7 col-md-6">
-                                <div>
-                                    <h4>Free Credit Reports</h4>
-                                    <p>Gain better insight into your credit worthiness. Your credit report is a compilation of information about the way you handle your credit and debt accounts. Subcribe to get yours once we launch!</p>
-                                    <div class="input-group mb-3">
-                                        <input type="email" name="" class="form-control" placeholder="Enter Email Address">
-                                        <div class="input-group-append">
-                                            <button class="btn btn-info btn-subscribenow">Subscribe now <i class="fa fa-arrow-right"></i></button>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
                             <div class="col-lg-5 col-md-6">
                                 <div>
-                                    <img src="images/report.png" class="img-fluid" alt="">
+                                    <h3>Wallet API</h3>
+                                    <p>The transfers API allows you to perform transfer operations to any bank account in Nigeria.</p>
+                                    <hr>
+                                </div>
+                                <div>
+                                    <div class="row mt-40">
+                                        <div class="col-lg-3 col-md-4 col-3">
+                                            <div>
+                                                <img src="images/hooks.svg" class="img-fluid" alt="">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-9 col-md-8 col-8">
+                                            <div class="settlement-wrapper">
+                                                <h6>Airtime Topup</h6>
+                                                <p>Returns a list of Nigerian Banks with their sort codes</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <a href="" class="btn btn-info btn-explore">Explore API Documentation &emsp;<i class="fa fa-arrow-right"></i></a>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-6">
+                                <div class="text-center">
+                                    <img src="images/walletAPI.svg" class="img-fluid" alt="">
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div class="testimonial-wrapper">
-                <div class="container-fluid">
-                    <div id="demo" class="carousel slide" data-ride="carousel">
-
-                        <!-- The slideshow -->
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <div class="row">
-                                    <div class="col-lg-7 col-md-6">
-                                        <div>
-                                            <h6>Dany Monson</h6>
-                                            <span>Frontend Developer</span>
-                                            <p>Professionals in their Delivery! All products were super great with strong attention to details, and overall vibe</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5 col-md-6">
-                                        <div>
-                                            <img src="images/testimonial.png" class="img-fluid" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="row">
-                                    <div class="col-lg-7 col-md-6">
-                                        <div>
-                                            <h6>Dany Monson</h6>
-                                            <span>Frontend Developer</span>
-                                            <p>Professionals in their Delivery! All products were super great with strong attention to details, and overall vibe</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5 col-md-6">
-                                        <div>
-                                            <img src="images/testimonial.png" class="img-fluid" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="carousel-item">
-                                <div class="row">
-                                    <div class="col-lg-7 col-md-6">
-                                        <div>
-                                            <h6>Dany Monson</h6>
-                                            <span>Frontend Developer</span>
-                                            <p>Professionals in their Delivery! All products were super great with strong attention to details, and overall vibe</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-5 col-md-6">
-                                        <div>
-                                            <img src="images/testimonial.png" class="img-fluid" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                      <!-- Left and right controls -->
-                      <a class="carousel-control-prev" href="#demo" data-slide="prev">
-                        <i class="fa fa-angle-left"></i>
-                      </a>
-                      <a class="carousel-control-next" href="#demo" data-slide="next">
-                        <i class="fa fa-angle-right"></i>
-                      </a>
-
                     </div>
                 </div>
             </div>
