@@ -62,6 +62,9 @@ nav {
   padding-top: 4px;
   padding-top: 10px;
 }
+.btn.btn-info.btn-apply img {
+  margin-top: -3px;
+}
 .btn.btn-info.btn-apply:hover {
   background: #320fa8; 
   color: #fff;
