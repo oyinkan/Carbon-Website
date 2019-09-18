@@ -4,6 +4,9 @@ body {
 * {
     outline: none!important;
 }
+.form-control:focus {
+  box-shadow: none!important;
+}
 nav {
      background-color: #071a2d;
 }
@@ -542,4 +545,7 @@ footer .p-2 {
 .platform-wrapper .onlinepayment-wrapper h2, 
 .platform-wrapper .verification-wrapper h2 {
   letter-spacing: 1px;
+}
+#tab_selector.form-control {
+  width: 100%;
 }

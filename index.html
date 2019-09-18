@@ -231,7 +231,7 @@
                     <div class="documentation-wrapper">
                         <h3 class="text-center">Developers’ Hub</h3>
                         <div style="width: 70%; margin: auto;">
-                            <ul class="nav nav-tabs">
+                            <ul class="nav nav-tabs hidden-xs">
                                 <li class="nav-item">
                                     <a class="nav-link active" data-toggle="tab" href="#home">
                                         <i class="fa fa-credit-card"></i> Online Payments
@@ -253,6 +253,12 @@
                                     </a>
                                 </li>
                             </ul>
+                            <select class="mb10 form-control visible-xs" id="tab_selector">
+                                <option value="0">Online Payments</option>
+                                <option value="1">Identity Verification</option>
+                                <option value="2">Business Loans</option>
+                                <option value="3">Fund Transfers</option>
+                            </select>
 
                             <!-- Tab panes -->
                             <div class="tab-content">
@@ -533,5 +539,12 @@
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#tab_selector').on('change', function (e) {
+                $('.nav-tabs li a').eq($(this).val()).tab('show');
+            });
+        });
+    </script>
 </body>
 </html>
